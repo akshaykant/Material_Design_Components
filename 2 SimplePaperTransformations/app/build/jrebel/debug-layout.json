@@ -1,0 +1,59 @@
+{
+    "moduleRoot": "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 22,
+    "bootClassPath": [
+        "C:\\Users\\Akshay Kant\\AppData\\Local\\Android\\sdk\\platforms\\android-22\\android.jar"
+    ],
+    "projectRoot": "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations",
+    "sdkDir": "C:\\Users\\Akshay Kant\\AppData\\Local\\Android\\sdk",
+    "keyAlias": "AndroidDebugKey",
+    "rebelPluginVersion": "0.8.0.6 2015-04-14T07:47:21+0000",
+    "androidManifest": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\debug\\AndroidManifest.xml",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\main\\AndroidManifest.xml"
+    ],
+    "keyPassword": "android",
+    "mergedResources": "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\res\\merged\\debug",
+    "resourcePath": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\debug\\res",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\main\\res"
+    ],
+    "androidPluginVersion": "2.2.2",
+    "type": "Gradle",
+    "storePassword": "android",
+    "assetPath": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\debug\\assets",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\main\\assets"
+    ],
+    "rebelDataDir": "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\jrebel\\data\\debug",
+    "sourcePath": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\debug\\resources",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\src\\main\\resources"
+    ],
+    "explodedLibsResources": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\generated\\res\\resValues\\debug",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\generated\\res\\rs\\debug",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\22.2.0\\res",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\22.2.0\\res"
+    ],
+    "storeFile": "C:\\Users\\Akshay Kant\\.android\\debug.keystore",
+    "compileSdkVersion": "android-22",
+    "buildSystemVersion": "2.14.1",
+    "layoutVersion": 2,
+    "applicationId": "com.example.android.scrolleventsdemo",
+    "originalApplicationId": "com.example.android.scrolleventsdemo",
+    "apk": "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\outputs\\apk\\app-debug.apk",
+    "buildToolsDir": "C:\\Users\\Akshay Kant\\AppData\\Local\\Android\\sdk\\build-tools\\21.1.2",
+    "classPath": [
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\classes\\debug",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\jars\\classes.jar",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\jars\\classes.jar",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\22.2.0\\jars\\classes.jar",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\22.2.0\\jars\\classes.jar",
+        "G:\\Workspace\\ANDROID\\Material Design Components\\2 SimplePaperTransformations\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\22.2.0\\jars\\libs\\internal_impl-22.2.0.jar",
+        "C:\\Users\\Akshay Kant\\AppData\\Local\\Android\\sdk\\extras\\android\\m2repository\\com\\android\\support\\support-annotations\\22.2.0\\support-annotations-22.2.0.jar"
+    ]
+}

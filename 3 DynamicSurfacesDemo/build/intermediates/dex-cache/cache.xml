@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_bfffe7f0af9c0d07e38e45399b92e57ca4578eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_1896f3afdf763263d85d420a903dee742f0a874f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay Kant\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_60c47a8545738fa35cda0f4a42ba2ce64d30b728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_0d5ee5b8f0df0192569774eec7c74bb8aabfdf7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_eeb3be97b7722a7cd2ce6271c22c875374cac5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\3 DynamicSurfacesDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_99355c74a8d70eae94a23f238166a6e210cba40f.jar" />
+    </item>
+
+</items>

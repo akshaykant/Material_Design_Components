@@ -1,0 +1,54 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:17:1-38:12
+	package
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:18:5-51
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:22:5-36:19
+MERGED from [com.android.support:design:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.scrolleventsdemo.MainActivity
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.0] G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Workspace\ANDROID\Material Design Components\13 ScrollEventsDemo\app\src\main\AndroidManifest.xml

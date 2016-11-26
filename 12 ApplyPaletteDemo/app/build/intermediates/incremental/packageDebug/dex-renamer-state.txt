@@ -1,0 +1,4 @@
+#Thu Oct 27 12:30:11 IST 2016
+base.0=G\:\\Workspace\\ANDROID\\Material Design Components\\12 ApplyPaletteDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Workspace\\ANDROID\\Material Design Components\\12 ApplyPaletteDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

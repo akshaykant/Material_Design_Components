@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.1_669ccfb813e95f082ef461cc8d9da1c0010be9fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay Kant\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_05dacc5578ac3f86d9ce8c222f9914ef3fd1be2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_e4e99ab1a06a9bf08ca728edf250d3b364a6b4ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_cd07cb1f8be753d9c9a2c2b2c414a0b2f47490cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="G:\Workspace\ANDROID\Material Design Components\8 CoordinatedMotion\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_9ff0a7af52ecf385fcabe9deee8f4eeaf36573b5.jar" />
+    </item>
+
+</items>
